@@ -6,7 +6,7 @@ def main():
     costo = paginas * 60
     costo_1 = costo * .9
     
-    print("El costo de la publicación es :", costo_1)
+    print("El costo de la publicación es:", costo_1)
 
 if __name__ == '__main__':
     main()
